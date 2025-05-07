@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Define Theme.FlixsterPlus style -->
+    <style name="Theme.flixtsterplusProject4" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <!-- Example: -->
+        <!-- <item name="colorPrimary">@color/yourPrimaryColor</item> -->
+        <!-- <item name="colorAccent">@color/yourAccentColor</item> -->
+    </style>
+
+</resources>
